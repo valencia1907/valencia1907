@@ -1,0 +1,42 @@
+<svg width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&amp;family=Montserrat:wght@300&amp;display=swap');
+    </style>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a690;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4a5a5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9d8189;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with soft cream color -->
+  <rect width="800" height="140" fill="#faf8f3"/>
+  
+  <!-- Decorative botanical elements -->
+  <circle cx="50" cy="70" r="3" fill="#c9a690" opacity="0.4"/>
+  <circle cx="70" cy="60" r="2" fill="#d4a5a5" opacity="0.4"/>
+  <circle cx="65" cy="80" r="2.5" fill="#9d8189" opacity="0.4"/>
+  
+  <circle cx="750" cy="70" r="3" fill="#c9a690" opacity="0.4"/>
+  <circle cx="730" cy="60" r="2" fill="#d4a5a5" opacity="0.4"/>
+  <circle cx="735" cy="80" r="2.5" fill="#9d8189" opacity="0.4"/>
+  
+  <!-- Delicate leaf shapes -->
+  <ellipse cx="60" cy="70" rx="15" ry="4" fill="#a8b5a0" opacity="0.3" transform="rotate(-30 60 70)"/>
+  <ellipse cx="740" cy="70" rx="15" ry="4" fill="#a8b5a0" opacity="0.3" transform="rotate(30 740 70)"/>
+  
+  <!-- Name with elegant serif font -->
+  <text x="400" y="60" font-family="'Playfair Display', serif" font-size="42" font-weight="600" fill="url(#gradient)" text-anchor="middle">
+    Valencia Cummings
+  </text>
+  
+  <!-- Title with light, airy font -->
+  <text x="400" y="95" font-family="'Montserrat', sans-serif" font-size="18" font-weight="300" fill="#7a6f6f" text-anchor="middle" letter-spacing="2">
+    Data Specialist | Analytics Professional
+  </text>
+  
+  <!-- Subtle decorative line -->
+  <line x1="250" y1="110" x2="550" y2="110" stroke="#d4a5a5" stroke-width="1" opacity="0.4"/>
+  <circle cx="400" cy="110" r="3" fill="#d4a5a5" opacity="0.5"/>
+</svg>
