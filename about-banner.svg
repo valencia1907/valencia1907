@@ -1,0 +1,24 @@
+<svg width="600" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&amp;display=swap');
+    </style>
+    <linearGradient id="gradient-about" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a690;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d4a5a5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="60" fill="#faf8f3"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="30" cy="30" r="2" fill="#a8b5a0" opacity="0.4"/>
+  <circle cx="570" cy="30" r="2" fill="#a8b5a0" opacity="0.4"/>
+  
+  <text x="300" y="38" font-family="'Playfair Display', serif" font-size="24" font-weight="500" fill="url(#gradient-about)" text-anchor="middle">
+    About
+  </text>
+  
+  <line x1="50" y1="30" x2="250" y2="30" stroke="#d4a5a5" stroke-width="0.5" opacity="0.3"/>
+  <line x1="350" y1="30" x2="550" y2="30" stroke="#d4a5a5" stroke-width="0.5" opacity="0.3"/>
+</svg>
