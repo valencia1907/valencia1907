@@ -7,8 +7,6 @@
 
 <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/> <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/> <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/>
 
----
-
 ![About](./about-banner.svg)
 
 <p align="center" style="max-width: 600px; margin: 0 auto;">
@@ -17,7 +15,6 @@ Data wanderer with a love for reading books. I bring curiosity and creativity to
 
 <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/> <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/>
 
----
 
 ![Skills](./skills-banner.svg)
 
@@ -25,7 +22,6 @@ Data wanderer with a love for reading books. I bring curiosity and creativity to
 
 <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/> <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/>
 
----
 
 ![Education](./education-banner.svg)
 
@@ -35,7 +31,6 @@ Data wanderer with a love for reading books. I bring curiosity and creativity to
 
 <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/> <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/>
 
----
 
 ![Projects](./projects-banner.svg)
 
@@ -53,14 +48,11 @@ R Studio text mining analysis across multiple news publications
 
 <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/> <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/>
 
----
 
 ![Connect](./connect-banner.svg)
 
 [LinkedIn](https://www.linkedin.com/in/valencia-cummings/) | [Portfolio](https://www.datascienceportfol.io/valencia1907) | Discord: valencia_1999
 
----
-
-<img src="./pixel-flower.svg" width="32" height="32" alt="flower"/> <img src="./pixel-flower.svg" width="32" height="32" alt="flower"/> <img src="./pixel-flower.svg" width="32" height="32" alt="flower"/> <img src="./pixel-flower.svg" width="32" height="32" alt="flower"/> <img src="./pixel-flower.svg" width="32" height="32" alt="flower"/>
+<img src="./pixel-flower.svg" width="32" height="32" alt="flower"/> <img src="./pixel-flower.svg" width="32" height="32" alt="flower"/> <img src="./pixel-flower.svg" width="32" height="32" alt="flower"/>
 
 </div>
