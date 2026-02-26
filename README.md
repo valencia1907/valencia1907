@@ -57,7 +57,7 @@ Interactive Excel dashboard with demographic filtering
 **[Text Mining: Mother's Day](https://www.datascienceportfol.io/valencia1907/projects/2)**  
 R Studio text mining analysis across multiple news publications
 
-<img src="./pixel-flower.svg" width="24" height="24" alt="flower"/> <img src="./pixel-flower.svg" width="24" height="24" alt="flower"/>
+<img src="./pixel-flower.svg" width="24" height="24" alt="flower"/>
 
 
 ![Connect](./connect-banner.svg)
