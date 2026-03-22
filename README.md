@@ -48,7 +48,7 @@ Data wanderer with a love for reading books. I bring curiosity and creativity to
 **[Sunshine Pharmacy Dashboard](https://www.datascienceportfol.io/valencia1907/projects/3)**  
 Healthcare BI dashboard with data modeling, DAX, and intuitive design
 
-**[E-Commerce Sales Analysis](https://www.datascienceportfol.io/valencia1907/projects/0)**  
+**[E-Commerce Sales Analysis](https://github.com/valencia1907/E-Commerce-Sales-Analysis)**  
 SQL analysis of customer purchases, product performance, and regional trends
 
 **[Bike Store Sales Dashboard](https://www.datascienceportfol.io/valencia1907/projects/1)**  
